@@ -1,3 +1,5 @@
-Documentation for the game of Pachisi
+Game of Pachisi 
 
-Rules for the game:
+Web Version of the game
+
+Rules of the game:

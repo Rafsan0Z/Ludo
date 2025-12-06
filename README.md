@@ -1,5 +1,5 @@
 Game of Pachisi 
 
-Web Version of the game
+Desktop version of the game
 
 Rules of the game:

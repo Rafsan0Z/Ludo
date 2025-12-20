@@ -1,4 +1,4 @@
-Game of Pachisi 
+Game of Ludo 
 
 Web Version of the game
 
